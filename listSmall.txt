@@ -1839,7 +1839,6 @@ dbixmine.pro
 d-d.host
 d-d.live
 d-d.space
-ddnsking.com
 ddosdev.com
 debutech.de
 dedicatedpool.com
@@ -3728,7 +3727,6 @@ mytechliving.com
 mytestminer.xyz
 mytlnerwalilet.info
 myttherwalet.com
-myvnc.com
 myxmr.pw
 my-zarinsk.ru
 myzen.cash
@@ -5173,8 +5171,6 @@ wingnutcrypto.com
 winxmr.club
 witthethim.com
 wittyoffers.club
-wix.com
-wixdns.net
 wkkjfcgjofbix.ru
 wlink-net.com
 wmasters.cf
