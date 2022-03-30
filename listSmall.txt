@@ -1404,7 +1404,6 @@ clopool.org
 clopool.pro
 clopool.ru
 clopool.xyz
-cloud
 cloudcdn.gd
 cloudcdn.gdn
 cloudcoins.co
