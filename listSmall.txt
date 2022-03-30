@@ -1967,9 +1967,6 @@ dxmhkisurxxxhm.ru
 dxpool.com
 dxpool.net
 dynalias.com
-dynamic-dns.net
-dyndns.org
-dynu.net
 dzizsih.ru
 e4pool.com
 e9658544844.pro
@@ -2759,7 +2756,6 @@ hodlpool.party
 holymine.org
 honorpool.org
 hookpool.net
-hopto.org
 horrorscopeme.ml
 hospitalcoin.net
 hostcontent.live
