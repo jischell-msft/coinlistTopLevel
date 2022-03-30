@@ -934,7 +934,6 @@ bitalo.com
 bitapool.com
 bitaps.com
 bitbackoffice.com
-bitbucket.io
 bitcanna.io
 bitcatra.com
 bitclockers.com
@@ -1100,8 +1099,6 @@ bloc-mining.com
 bloc-mining.eu
 bloc-mining.us
 blocphi-phi-pool.com
-blogspot.com
-blogspot.in
 blokspace.io
 bluematt.me
 bluepool.io
@@ -2521,9 +2518,6 @@ globefx24.com
 gltminer.com
 gnark-mining.com
 gnrdomimplementation.com
-go.ro
-gofile.io
-gogreenlight.se
 gohashme.com
 goldcash-pool.de
 goldencoin.online
@@ -2809,7 +2803,6 @@ idc3389.top
 idcray.com
 iddqd.vip
 iddqdelta.com
-idlebuddy.com
 iegservers.com
 if1j0ytgkypa.tk
 ifblock.io
@@ -3750,7 +3743,6 @@ neexstar.com
 nekonium-pool.com
 nemesispool.ga
 n-engine.com
-neocities.org
 neohash.com
 ner-de-mi-nis-6.info
 nerdorium.org
@@ -4468,7 +4460,6 @@ serv1swork.com
 servebeer.com
 servegame.com
 servepics.com
-server.com
 serverpower.net
 service4refresh.info
 setup-game.xyz
@@ -5130,7 +5121,6 @@ webminerpool.com
 webmining.co
 webmonero.com
 webxmr.com
-weebly.com
 weekendpool.info
 weekendpool.net
 weeminepool.com
