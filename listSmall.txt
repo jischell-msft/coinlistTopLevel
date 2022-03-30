@@ -1222,7 +1222,6 @@ butcalve.com
 butpool.xyz
 butterflylabs.com
 buyandfun.review
-bw.com
 bwpool.net
 bx6tok.xyz
 byetho5t4.co
@@ -1274,12 +1273,10 @@ ccvwtdtwyu.tr
 ccvwtdtwyu.trade
 cdjchpojgifwc.ru
 cdjs.online
-cdn77.org
 cdn-analytics.pl
 cdn-code.host
 cdncounter.top
 cdnfile.xyz
-cdn-jquery.host
 cdns.ws
 cducoin.org
 cdy.one
@@ -1412,9 +1409,6 @@ cloudcdn.gd
 cloudcdn.gdn
 cloudcoins.co
 cloudflane.com
-cloudflare.net
-cloudflare.solutions
-cloudfront.net
 cloudhash.eu
 cloudmedia.gdn
 cloudmediacdn.com
@@ -1964,7 +1958,6 @@ dubester.pw
 dubester.si
 dubester.site
 dubester.space
-duckdns.org
 duckiepool.com
 dugipools.org
 durinsmine.com
