@@ -600,7 +600,6 @@ appelamule.com
 applecoin.li
 applest.gq
 applest.tk
-appspot.com
 aprexfund.com
 aprilcoin.com
 aqqgli3vle.bid
@@ -2513,9 +2512,7 @@ gigsis.net
 giize.com
 ginasismining.com
 ginkgo.club
-gitee.io
 gitgrub.pro
-github.io
 give-me-coins.com
 give-me-ltc.com
 gleecpool.com
@@ -3824,9 +3821,6 @@ nodeone.io
 nodepacific.com
 nodepool.eu
 nodepow.com
-no-ip.biz
-no-ip.com
-no-ip.org
 noirofficial.org
 nonametrade.com
 noncepool.com
@@ -5370,11 +5364,9 @@ yslyy.com
 yunpools.com
 yuyyio.com
 z.cash
-za.net
 zaixmrpool.com
 zaloapp.com
 zanopool.com
-zapto.org
 zarabotaibitok.ru
 zavzlen.ru
 zbeos.com
